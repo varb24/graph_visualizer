@@ -1,0 +1,2 @@
+brew install sfml
+brew install pkg-config
